@@ -1,0 +1,4 @@
+{
+	"front_end_url":"<front end url>",
+	"session_secret":<session encryption key string>"
+}
