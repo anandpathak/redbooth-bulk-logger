@@ -19,7 +19,7 @@ front-end/src/app/app.settings.ts
 *.launch
 .settings/
 *.sublime-workspace
-
+*/package-lock.json
 # IDE - VSCode
 .vscode/*
 !.vscode/settings.json
